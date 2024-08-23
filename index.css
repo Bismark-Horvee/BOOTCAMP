@@ -1,0 +1,487 @@
+
+
+body{
+  background-color: rgb(0, 100, 8);
+ cursor: pointer;
+ border: none;
+ background-size: cover;
+ animation: 4s;
+ 
+ 
+
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body:hover{background-color: rgb(255, 0, 0)}
+
+.c{
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 50px;
+}
+.b{
+   
+    position: fixed;
+    top: 0;
+    right: 0; 
+    margin-right: 195px;
+
+    
+}
+
+.button{
+    background-color: darkgreen;
+    top: 0;
+    right: 0;
+    position: fixed;
+    margin-top: 45px;
+    margin-right: 50px;
+    border: none;
+    height: 30px;
+}
+.nav{
+    top: 0;
+    right: 0;
+    position: fixed;
+    flex-direction: row;
+    display: flex;
+    margin-top: 45px;
+    margin-right: 200px;
+  
+}
+#a{
+    margin-right: 20px;
+    font-family: sans-serif;
+
+}#b{
+    margin-right: 20px;
+    font-family: sans-serif;
+}
+#c{
+    margin-right:20px ;
+    font-family: sans-serif;
+}
+#d{
+    margin-right:20px ;
+    font-family: sans-serif;
+}
+#e{
+    margin: right 20px;
+    font-family: sans-serif;
+
+}
+.r{
+   
+    top: 0;
+    left: 0;
+    height: 90px;
+    width: 70px; 
+    position: fixed;
+    padding-left: 170px;
+   
+
+}
+#t{
+    top: 0;
+    left: 0;
+    position: fixed;
+    margin-left: 130px;
+    padding-left: 130px;
+}
+    
+  
+ .botech p{
+   
+    top: 0;
+    left: 0;
+    margin-left: 90px; 
+    
+     
+}
+
+.background img{
+    
+   height: 500px;
+   width: 1558px;
+  padding-top:100px;
+  margin-left: 30px;
+  right: 100%;
+ 
+}
+  
+ .t{
+    
+   text-align: center;
+   margin-top: 600px;
+  padding-right: 500px;
+   padding-bottom: 100px;
+  position: relative;
+   padding-left: 200px;
+ }
+  
+  #p{
+    position: absolute;
+    top: 20%;
+    left: 9%;
+    color:white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif
+    
+ }
+ #excel{
+    top: 45%;
+    position: absolute;
+    left: 9%;
+    color: aliceblue;
+    font-size: x-large;
+   
+ }
+
+  .css{
+    border: none;
+   position: absolute;
+    top: 57%;
+    left: 9%;
+    color: chartreuse;
+    border-radius: 3px;
+    background-color:rgb(225, 65, 113);
+    font-size: 20px;
+    height: 60px;
+    width: 180px;
+    border-radius: 25px;
+    
+    }
+    
+    #para{
+     padding-top:5px;
+     margin-left: 90px;
+      color: darkorange;
+      font-family: sans-serif;
+      font-size: 20px;
+      
+    
+    }
+
+.trans {
+   
+    color: aquamarine;
+  font-size: 20px;
+    margin-left: 90px;
+    margin-top: 100px;
+    color:lightseagreen
+}
+.who span {
+    
+  display: flex; 
+  width: 228px;
+  height: 2px;
+  background-color: whitesmoke;
+  color: whitesmoke;
+  align-items: center;
+  left: 10%;
+}
+.who h2{
+    color: whitesmoke;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 40px;
+   
+}
+main{
+  margin-left: 700px;
+}
+
+#full{
+    font-size: 20px;
+    margin-left: 90px;
+    
+    color: whitesmoke;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+ #span span {
+    
+  display: flex; 
+  width: 190px;
+  height: 1px;
+  background-color: whitesmoke;
+  font-size: 40px;
+  align-items: center;
+  left: 10%;
+ } 
+ #sweet h2{
+  
+ color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+ }
+
+
+#A{
+    
+    margin-left: 90px;
+    font-size: 20px;
+    color: whitesmoke;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.world span{
+   
+  display: flex; 
+  width: 216px;
+  height: 1px;
+ background-color: whitesmoke;
+
+}
+
+
+.world h2{
+  
+  color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+ }   
+
+
+ .Bar{
+
+    
+    margin-left: 550px;
+    font-size: 20px;
+    color: whitesmoke;
+   font-family: 'Times New Roman', Times, serif; 
+ }
+    
+   
+
+.vert{
+   
+    height: 600px;
+    border-top: solid;
+    border-right:groove ;
+  border-bottom:groove;
+border-bottom: groove;
+margin-left: 50px;
+    
+}
+
+#part{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+color: hotpink; 
+  margin-left: 90px;
+  font-size: 20px;
+}
+  
+
+.fame{
+   
+    
+    top: 57%;
+    left: 9%;
+    color: chartreuse;
+    background-color:rgb(225, 65, 113);
+    font-size: 20px;
+    height: 45px;
+    width: 360px;
+    border-radius: 14px; 
+   margin-left: 90px;
+   border: none;
+}
+#form{
+    background-color: darkmagenta;
+    width: 200px;
+    height: 300px;
+   margin-left: 400px;
+   padding: 50px;
+   color: aliceblue;
+}
+ 
+
+textarea{
+  width: 200px;
+  height: 100px;
+  border: none;
+}
+
+
+ form input{
+  width: 200px;
+  height: 20px;
+  margin-block: 10px;
+}
+
+
+#but{
+  background-color: deeppink;
+ margin-block: 13px;
+ width: 205px;
+ height: 35px;
+ border: 10px;
+ border-radius: 8px;
+ position: absolute;
+
+}
+.eben p{
+  
+   color: darkorange;
+   margin-left: 300px;
+   margin-top: -150px;
+   display: flex;
+   position: relative;
+   font-size: 20px;
+  
+}
+.faith{
+height: 500px;
+width: 1400px;
+background-color: orangered;
+
+}
+.del {
+  text-align: center;
+  padding: 5px;
+  color: whitesmoke;
+  font-size: 30px;
+  border-bottom: dotted;
+ margin-left: 30px;
+ margin-right:30px ;
+
+}
+
+.del button{
+  height: 35px;
+  width: 200px;
+  background-color: lightsalmon;
+  font-family: sans-serif;
+ font-size: 30px;
+ border: none;
+
+}
+
+.care{
+ 
+  height: 210px;
+  width: 370px;
+  border-right: dotted;
+  color: whitesmoke;
+ 
+}
+h5{
+  padding:40px ;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+
+.beau{
+  margin-left: 210px;
+ margin-top: -190px;
+  color: whitesmoke; 
+  font-size: 20px;
+}
+.you{
+  
+  height: 210px;
+  width: 1050px;
+  border-right: dotted;
+  color: whitesmoke; 
+  margin-top: -140px;
+ 
+}
+
+
+#raw{
+  font-size: 30px;
+margin-left: 390px;
+ 
+}
+#social img{
+  font-size: 70px;
+  height: 50px;
+  width: 50px;
+  justify-content: space-around;
+  font-size: 70px;
+ background-color: deeppink;
+ margin-top: 40px;
+  margin: 5px;
+  border-radius: 50px;
+  margin-top: none;
+  margin-bottom: none;
+   
+}
+#social{
+  margin-left:600px;
+display: flex;
+margin-top: -190px;
+
+
+}
+.dev{
+  
+  margin-left: 600px;
+ margin-top: -24px;
+ 
+  color: whitesmoke; 
+  font-size: 20px;
+}
+
+.think img {
+  margin-left: 1100px;
+  margin-top: -190px;
+  border-radius: 300px;
+ 
+
+}
+.mono{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 35px;
+background-color: chartreuse;
+margin-left: 1110px;
+margin-top: -218px;
+position: absolute;
+border: none;
+
+}
+ 
+ #call img{
+  
+  border-radius: 300px;
+  margin-left: 1111px;
+color: darkblue;
+ font-size: xx-large;
+ 
+}
+ 
+#call{
+  margin-top: -145px;
+  
+  
+}
+
+.phone{
+  margin-left: 1150px;
+  margin-top: -28px;
+color: rgb(5, 2, 1);
+  font-size: 23.5px;
+}
+ #hunf{
+  margin-left: 1109px;
+  
+  font-size: 23px;
+ }
+
+
+ .footer{
+  margin-left: 530px;
+  margin-top: 50px;
+  font-size: 30px;
+  color: blue;
+ }
+
+
+
+
+
